@@ -4,7 +4,7 @@ A single-file planting calendar for Florida gardeners. No account, no server, no
 
 Florida's growing year runs backwards from most of the country. The productive season is roughly September through May, and June through August is the hard season rather than the growing season. Generic gardening apps are built around a spring-planting, frost-date model and are actively wrong here. This is an attempt to fix that for the three regions UF/IFAS Extension uses: North Florida above roughly Ocala, Central through about Sebring, and South below that.
 
-**Live site:** _add your GitHub Pages URL here_
+**Live site:** https://mgracen.github.io/florida-planting-app/
 
 ---
 
