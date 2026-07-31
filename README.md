@@ -1,3 +1,5 @@
+
+<img width="1222" height="572" alt="Screenshot 2026-07-31 6 58 45 PM" src="https://github.com/user-attachments/assets/7664b0a2-8e60-46b9-8111-08b2b6a452c3" />
 # Florida Planting Calendar
 
 A single-file planting calendar for Florida gardeners. No account, no server, no build step. One HTML file you can open, host, or fork.
