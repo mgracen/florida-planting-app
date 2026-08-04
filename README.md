@@ -1,3 +1,5 @@
+<img width="1335" height="510" alt="Screenshot 2026-08-03 9 00 49 PM" src="https://github.com/user-attachments/assets/beabc9aa-7bae-461a-b2af-bfe8b0a19d27" />
+<img width="1335" height="510" alt="Screenshot 2026-08-03 9 01 00 PM" src="https://github.com/user-attachments/assets/09637633-fa3d-4609-a051-a5b42c7c1c65" />
 # Florida Planting Calendar
 
 Two guides for growing things in Florida, where the season runs backwards from most of the country. The productive months are September through May, and June through August is the hard season rather than the growing season. Generic gardening apps are built on a spring-planting, frost-date model and are actively wrong here.
