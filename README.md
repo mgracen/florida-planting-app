@@ -1,8 +1,12 @@
 # Florida Planting Calendar
 
-A single-file planting calendar for Florida gardeners. No account, no server, no build step. One HTML file you can open, host, or fork.
+Two guides for growing things in Florida, where the season runs backwards from most of the country. The productive months are September through May, and June through August is the hard season rather than the growing season. Generic gardening apps are built on a spring-planting, frost-date model and are actively wrong here.
 
-Florida's growing year runs backwards from most of the country. The productive season is roughly September through May, and June through August is the hard season rather than the growing season. Generic gardening apps are built around a spring-planting, frost-date model and are actively wrong here. This is an attempt to fix that for the three regions UF/IFAS Extension uses: North Florida above roughly Ocala, Central through about Sebring, and South below that.
+Florida Planting Calendar covers 229 plants across 17 segments, with planting windows for the three regions UF/IFAS uses, live local weather translated into garden decisions, a month-by-month pest calendar, and pollinator guidance.
+
+Florida Pepper Guide covers 47 varieties across the five domesticated Capsicum species, with heat levels, overwintering, drying, and fermented hot sauce. Peppers get their own page because Florida grows them unusually well.
+
+No accounts, no servers, no build step. Two HTML files.
 
 **Live site:** https://mgracen.github.io/florida-planting-app/
 
